@@ -1,0 +1,136 @@
+@keyframes anima {
+    from {
+        transform: translateX(-300px); 
+    } 
+    to {
+        transform: translateX(0px); 
+    }
+} 
+.tausta1 {
+    background-image: url("kuva1.jpg"); 
+    width: 3000px; 
+    height: 2000px; 
+} 
+.a1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a1:hover {
+    color: red; 
+} 
+.a2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a2:hover { 
+    color: red; 
+} 
+.a3 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a3:hover { 
+    color: red; 
+} 
+.a4 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a4:hover { 
+    color: red; 
+} 
+.nappi1 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    border-radius: 36px;  
+    font-size: 150px;  
+    background-color: blue; 
+} 
+.nappi1:hover { 
+    background-color: red;  
+} 
+.linkki1 {
+    color: black; 
+} 
+.nappi2 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    background-color: blue;  
+    font-size: 150px;  
+    border-radius: 36px; 
+} 
+.nappi2:hover {
+    background-color: red;  
+} 
+.linkki2 {
+    color: black; 
+} 
+.a5 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a5:hover { 
+    color: red; 
+} 
+.a6 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a6:hover { 
+    color: red; 
+} 
+.a7 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a7:hover { 
+    color: red; 
+} 
+.a8 {
+    animation-name: anima; 
+    animation-duration: 2s; 
+    animation-iteration-count: 1; 
+    transition: 2s; 
+    color: blue;  
+    font-size: 150px; 
+} 
+.a8:hover { 
+    color: red; 
+} 
+.tausta2 {
+    background-color: black; 
+    width: 3000px; 
+    height: 1000px; 
+} 
